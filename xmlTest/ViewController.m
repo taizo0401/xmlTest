@@ -6,6 +6,8 @@
 //  Copyright (c) 2013年 Taizo Takahira. All rights reserved.
 //
 
+// test 2
+
 #import "ViewController.h"
 
 @interface ViewController ()
